@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Topics of interest: self-driving car, character animation, physics-based simulation, reinforcement learning
 
 ### More Information
 
