@@ -35,3 +35,6 @@ collect data from somewhere
 
 - [解析百度Apollo之决策规划模块](https://paul.pub/apollo-planning/#id-publicroadplanner)
 - Apollo3.5规划模块官方介绍[[中文]](https://github.com/ApolloAuto/apollo/blob/master/modules/planning/README_cn.md)[[英文]](https://github.com/ApolloAuto/apollo/blob/master/modules/planning/README.md)
+
+路径规划
+- [路径规划之 A* 算法](https://paul.pub/a-star-algorithm/#id-%E7%AE%97%E6%B3%95%E5%8F%98%E7%A7%8D)
