@@ -5,9 +5,14 @@ title: DeepLearning
 
 ## Tensorflow实践
 
+- [官网教程：Get started with Tensorflow2.0](https://www.tensorflow.org/alpha)
+- cs231n_2019_stanford/CS231N_TensorFlow_Tutorial.ipynb
+
 ## Pytorch实践
 
 - [PyTorch最佳实践，怎样才能写出一手风格优美的代码 (2019.04.29)](https://www.jiqizhixin.com/articles/2019-04-29-5?from=synced&keyword=pytorch)
+- [官网教程：Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+- cs231n_2019_stanford/pytorch_tutorial.ipynb
 
 ## 机器学习实践
 
@@ -15,6 +20,9 @@ title: DeepLearning
 - [从六大概念总结吴恩达新书：做好工程实践应该这样走 (2019.03.03)](https://www.jiqizhixin.com/articles/2019-03-03-2?from=synced&keyword=%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5)
 
 ## 强化学习实践
+
+- [如何在TensorFlow 2.0中构建强化学习智能体 (2019.01.21)](https://www.jiqizhixin.com/articles/2019-01-21-15?from=synced&keyword=%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0)
+  - [英文原版](http://inoryy.com/post/tensorflow2-deep-reinforcement-learning/)
 
 ## 分布式训练
 
