@@ -35,6 +35,7 @@
 - [直播回顾 - Apollo决策技术分享](https://mp.weixin.qq.com/s/KFjfhs5zdHdrukRnm52rsg)
 - [Apollo问答 - 如何拿下无人驾驶决策技术②](https://mp.weixin.qq.com/s/GvbOUg2LOnFTWZrXL7aQ2A)
 - Apollo3.5规划模块官方介绍[[中文]](https://github.com/ApolloAuto/apollo/blob/master/modules/planning/README_cn.md)[[英文]](https://github.com/ApolloAuto/apollo/blob/master/modules/planning/README.md)
+- [自动驾驶中有哪些路径规划框架?](https://zhuanlan.zhihu.com/p/43405664)
 
 路径规划
 - [路径搜索可视化](http://qiao.github.io/PathFinding.js/visual/)
