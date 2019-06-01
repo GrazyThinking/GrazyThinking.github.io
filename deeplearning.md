@@ -9,6 +9,13 @@ title: DeepLearning
 
 - [PyTorch最佳实践，怎样才能写出一手风格优美的代码 (2019.04.29)](https://www.jiqizhixin.com/articles/2019-04-29-5?from=synced&keyword=pytorch)
 
+## 机器学习实践
+
+- [机器学习43条军规：解密谷歌机器学习工程最佳实践 (2018.05.22)](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652019085&idx=5&sn=5334888e2ed921c5bd6605ae69feed46&scene=0#wechat_redirect)
+- [从六大概念总结吴恩达新书：做好工程实践应该这样走 (2019.03.03)](https://www.jiqizhixin.com/articles/2019-03-03-2?from=synced&keyword=%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5)
+
+## 强化学习实践
+
 ## 分布式训练
 
 - [IBM高级研发工程师武维：如何分布式训练深度学习模型？- 分享总结 (2018.01.30)](https://www.leiphone.com/news/201801/2eAImHGQdNpZv8LW.html)
@@ -20,3 +27,9 @@ title: DeepLearning
 
 VS Code
 - [Visual Studio Code官网教程](https://code.visualstudio.com/docs?start=true)
+
+## C++
+
+- [LearnCpp.com](https://www.learncpp.com/)
+
+## Python
