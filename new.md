@@ -1,3 +1,8 @@
+---
+layout: post
+title: New
+---
+
 # Recent Progress
 
 ### 1. DeepMind
