@@ -40,6 +40,7 @@ collect data from somewhere
 - [路径搜索可视化](http://qiao.github.io/PathFinding.js/visual/)
 - [路径规划之 A* 算法](https://paul.pub/a-star-algorithm/#id-%E7%AE%97%E6%B3%95%E5%8F%98%E7%A7%8D)
 - [Introduction to the A* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
+- Baidu Apollo EM Motion Planner[[Paper-18年发表]](https://arxiv.org/pdf/1807.08048.pdf)
 
 ### 3. Apollo自动驾驶入门课程
 
