@@ -32,8 +32,8 @@
 ### 2. Planning and Control
 
 - [解析百度Apollo之决策规划模块](https://paul.pub/apollo-planning/#id-publicroadplanner)
-- [直播回顾 | Apollo决策技术分享](https://mp.weixin.qq.com/s/KFjfhs5zdHdrukRnm52rsg)
-- [开发者说丨Planning 模块源代码分析](https://mp.weixin.qq.com/s/GvbOUg2LOnFTWZrXL7aQ2A)
+- [直播回顾 - Apollo决策技术分享](https://mp.weixin.qq.com/s/KFjfhs5zdHdrukRnm52rsg)
+- [Apollo问答 - 如何拿下无人驾驶决策技术②](https://mp.weixin.qq.com/s/GvbOUg2LOnFTWZrXL7aQ2A)
 - Apollo3.5规划模块官方介绍[[中文]](https://github.com/ApolloAuto/apollo/blob/master/modules/planning/README_cn.md)[[英文]](https://github.com/ApolloAuto/apollo/blob/master/modules/planning/README.md)
 
 路径规划
