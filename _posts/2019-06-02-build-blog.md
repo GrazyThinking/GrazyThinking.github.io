@@ -10,3 +10,4 @@ title: 利用jekyll搭建个人博客
 - [jekyll-now](https://github.com/barryclark/jekyll-now)
 - [beautiful-jekyll](https://github.com/daattali/beautiful-jekyll)
 - [matjek](https://github.com/ShawnTeoh/matjek)
+- [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)
