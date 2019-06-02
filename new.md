@@ -61,6 +61,7 @@ title: New
 企业招聘要求
 - [Waymo: Software / Research Engineer, Planning and Motion Control](https://waymo.com/joinus/1305655/)
 - [Waymo: Software Engineer, Planner & Controls](https://waymo.com/joinus/928478/)
+- [文远知行：决策规划工程师 - ML/DL方向](https://app.mokahr.com/apply/jingchi/2138#/job/d2455c6c-8f2a-4c39-b2ff-e20fdd552836?_k=qxytrx)
 
 ### 4. Apollo自动驾驶入门课程
 
